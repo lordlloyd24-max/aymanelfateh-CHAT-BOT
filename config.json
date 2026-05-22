@@ -11,8 +11,8 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "empereur 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
-  "PREFIX": "/",
+  "BOTNAME": "empereur Chat Bot",
+  "PREFIX": ".",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
